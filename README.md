@@ -1,2 +1,2 @@
-# MSF-Pr-ctica-1
+# MSF-Practica-1
 Práctica 1: Diseño de controladores
